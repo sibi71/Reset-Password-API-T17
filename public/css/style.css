@@ -1,0 +1,27 @@
+.input-box{
+    margin-top: 5%;
+    border-radius: 10px;
+    padding: 10px;
+    background-color: #bbcbd9;
+    box-shadow: 0px 0px 10px  0px black;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(241, 235, 254);
+}
+.a-link{
+ display: flex;
+ justify-content:space-evenly;
+ align-items: center;
+
+}
+.a-link a{
+    text-decoration: none;
+    color: #a3a3a4;
+}
+.a-link a:hover{
+    text-decoration:underline;
+    color: #6d6d6e;
+}
